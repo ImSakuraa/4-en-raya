@@ -1,4 +1,4 @@
-package asd;
+
 public class Tablero {
     private static final int FILAS = 6;
     private static final int COLUMNAS = 7;
