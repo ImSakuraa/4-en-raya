@@ -1,4 +1,3 @@
-package asd;
 import java.util.Scanner;
 
 public class Jugador {
